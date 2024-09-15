@@ -8,11 +8,15 @@ This Django application helps extract data from Egyptian national IDs written in
 - **OCR Processing:** Uses **EasyOCR** to recognize Arabic text on Egyptian IDs.
 - **Image Processing:** Utilizes **OpenCV** for image enhancement and preprocessing to improve OCR accuracy.
 - **Data Extraction:** Extracts relevant data fields from the ID, including:
-  - Name (in Arabic)
+  - First Name (in Arabic)
+  - Last Name (in Arabic)
+  - Address 1
+  - Address 2
+  - Job Title
+  - Job Place
+  - Marital Status
   - National ID number
-  - Date of birth
-  - Gender
-  - Place of issue
+  - Expiry Date
 - **Django Integration:** Provides a web interface using Django, making it easy to upload ID images and view extracted information.
   
 ## Prerequisites
