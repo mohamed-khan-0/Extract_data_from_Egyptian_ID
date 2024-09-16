@@ -67,7 +67,7 @@ This Django application helps extract data from Egyptian national IDs written in
 
 After uploading an ID image, the application will display extracted information such as:
 
-![screenshot] (media/Screenshot from 2024-09-16 12-24-09.png)
+![screenshot](media/Screenshot from 2024-09-16 12-24-09.png)
 
 ## Technologies Used
 
