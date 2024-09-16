@@ -67,11 +67,7 @@ This Django application helps extract data from Egyptian national IDs written in
 
 After uploading an ID image, the application will display extracted information such as:
 
-- **Name:** محمد أحمد علي
-- **ID Number:** 12345678901234
-- **Birth Date:** 01/01/1990
-- **Gender:** Male
-- **Place of Issue:** Cairo
+![screenshot][media/Screenshot from 2024-09-16 12-24-09.png]
 
 ## Technologies Used
 
