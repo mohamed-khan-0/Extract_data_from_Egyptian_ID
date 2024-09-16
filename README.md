@@ -83,10 +83,7 @@ After uploading an ID image, the application will display extracted information 
 
 Contributions are welcome! Please open an issue or submit a pull request to contribute to the project.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com].
+For any questions or feedback, please reach out to [mohamedhassam2908@gmail.com].
