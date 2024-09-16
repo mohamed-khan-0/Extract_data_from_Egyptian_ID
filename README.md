@@ -86,4 +86,4 @@ Contributions are welcome! Please open an issue or submit a pull request to cont
 
 ## Contact
 
-For any questions or feedback, please reach out to [mohamedhassam2908@gmail.com].
+For any questions or feedback, please reach out to mohamedhassam2908@gmail.com.
